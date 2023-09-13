@@ -1,0 +1,4 @@
+para iniciar o projeto https://vitejs.dev/guide/ , seguir os passos
+
+phospohr icons =  <script src="https://unpkg.com/@phosphor-icons/web"></script> implementar sem instalar a biblioteca
+
