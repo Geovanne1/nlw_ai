@@ -1,1 +1,3 @@
 npm i express cors axios ytdl-core
+
+npm i @xenova/transformers fluent-ffmpeg ffmpeg-static node-wav
